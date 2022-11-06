@@ -37,6 +37,7 @@
 ## [版权](/ipr/copyright.md)
 ## [域名](/ipr/domainname.md)
 ## [合同](/ipr/contract.md)
+## [导图](/law/xmind.md)
 
 ## 体验
 ### [拍照](/xp/photo.md)
@@ -47,6 +48,6 @@
 
 ## 参考
 
-
+1. [Quick Reference](https://wangchujiang.com/reference/) 
 
 
