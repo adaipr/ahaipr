@@ -15,6 +15,24 @@
 
 ```
 
+![image](https://user-images.githubusercontent.com/117549124/200164263-3cbaf3ed-fc8d-437b-be52-a8dbdf4c9364.png)
+> [高手从来不把精力电池用到没电](https://mbd.baidu.com/newspage/data/dtlandingwise?nid=dt_5169698538482787311&sourceFrom=homepage)，而是理解和配合精力的节律，主动进行休息和补充。大脑的注意力，一般只能保持45-90分钟。因此，每1小时主动休息一次，能保证你的精力在高水准。这一般会比连续工作2小时，然后停下来休息20分钟好。休息的频率比时长更重要。
+
+![image](https://user-images.githubusercontent.com/117549124/200164414-1bd301a9-62b1-4e05-b6d1-c461814ee837.png)
+![image](https://user-images.githubusercontent.com/117549124/200164422-40dc410d-58a3-4f6f-962c-d860904e4dfb.png)
+![image](https://user-images.githubusercontent.com/117549124/200164425-62a0c6cb-23ed-49a1-9b7d-2cd933d8c3de.png)
+
+```
+1. 精力
+2. 情绪
+3. 状态
+4. 成长
+5. 投资
+6. 歌曲
+7. ...
+```
+
+
 ![image](https://user-images.githubusercontent.com/117549124/200147818-6e86e417-0e3b-4d83-b132-e651580c7ea7.png)
 > 自知，自立，自强，自信...
 
