@@ -1,6 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/117549124/200162399-50b4bc4c-b6c0-4965-a322-2f37fb3cf59c.png)
 
+> [法人承担有限责任，非法人组织承担无限责任。](https://www.dedao.cn/course/article?id=ov5WgnrDGd8bKNdWwGJMNRm1wO264y)
+
 [法官是一个终身学习的职业](https://www.dedao.cn/course/article?id=89GEyP73eprvKBPAwgJq2Mb0kRD64d)，因为永远都有自己不熟悉甚至完全不懂的案件。这里说的可不只是法律规则，更有案件涉及的其他专业知识。
 
 遇到这种情况该怎么办呢？我想分享自己的三个经验。
