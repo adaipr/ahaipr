@@ -1,6 +1,6 @@
 
 
-[手机充电问题的解决](https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)
+## [手机充电问题的解决](https://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)
 
 [Redmi Note12探索版在行业内首次实现210W闪充](https://m.21jingji.com/article/20221027/herald/c4b4fa8fa8962a50fa416fccf43dacaf.html)。据测试数据，该手机仅需9分钟即可将4300mAh电池充至100%，这也推动手机充电速度迈入个位数时代。
 
@@ -42,4 +42,15 @@
 因为人体绝对安全的电压，不能超过 24V，再高的输出电压可能就有触电的风险。
 另一方面，我国规定，小功率家用电器的输入电流不超过 10A。这两个数字相乘，功率就是两百多瓦。
 
-[电池为什么只有1、5、7号，没有4、8、9、10号？](https://finance.sina.com.cn/wm/2022-10-24/doc-imqqsmrp3595606.shtml)
+## [快充伤电池？40部手机两年实验，告诉你最佳充电方式](https://www.bilibili.com/video/BV1X8411e7EJ/?spm_id_from=333.337.search-card.all.click&vd_source=42d80403e87eaf6d41d4a253abc12d6b)
+
+```
+1、500次循环后，快充并没有更伤电池。
+2、将手机电量保持在30%到80%对电池确实有帮助，但是帮助很有限。
+3、手机连着充电器一星期不拔线，电池容量基本不受影响。
+4、iPhone的电池健康下降到85%的时候，换电池就可以对使用体验有较大提升了。
+```
+
+## 参考
+
+1. [电池为什么只有1、5、7号，没有4、8、9、10号？](https://finance.sina.com.cn/wm/2022-10-24/doc-imqqsmrp3595606.shtml)
