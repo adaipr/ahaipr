@@ -41,10 +41,13 @@
 
 ## 体验
 ### [拍照](/xp/photo.md)
+### [感悟](/xp/feeling.md)
 ## 见识
 ## 健康
 ### [设备](/health/device.md) 
 ## 投资
+
+
 
 ## 参考
 
