@@ -1,5 +1,7 @@
 [为什么程序员喜欢木工](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
 
+![image](https://user-images.githubusercontent.com/117549124/200159331-8aeb5e83-946a-4cae-87c8-04f21e5a651a.png)
+
 很多程序员喜欢木工，自己动手制作各种木制品。
 
 这不是偶然的。木工有一些特点，会让程序员感到非常熟悉，与编程并没有太大的不同。
