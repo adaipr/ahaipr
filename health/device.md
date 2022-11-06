@@ -1,3 +1,6 @@
+
+## HuaWei
+
 ![image](https://user-images.githubusercontent.com/117549124/200151323-de5223d1-186c-4b00-b3bb-45a05dd102d1.png)
 ![image](https://user-images.githubusercontent.com/117549124/200151336-714e4512-2b87-43ce-a407-b0f2e97e89f0.png)
 ![image](https://user-images.githubusercontent.com/117549124/200151352-7a37c1a1-8200-485d-b312-365cd14df2af.png)
@@ -28,5 +31,28 @@
 
 ![image](https://user-images.githubusercontent.com/117549124/200151285-7f6a1a84-0205-4f9e-88e9-15dfb4dd0608.png)
 > [HarmonyOS 3](https://consumer.huawei.com/cn/harmonyos-3/) 新风貌，全面进化。现在，更多设备加入超级终端，实现自由连接。随心组合的协同，让你多方位高效协作；操作自如的卡片服务，助你轻松直达目的；独具个性的交互和智慧服务，妙趣体验新意不断；还有更强的性能和隐私安全体验，让智慧生活更进一步。
+
+![image](https://user-images.githubusercontent.com/117549124/200151619-c3dcf65e-bb85-4378-bcf9-c4bc37740101.png)
+![image](https://user-images.githubusercontent.com/117549124/200151629-58868bbc-d608-443e-a78c-cf933ceefe35.png)
+![image](https://user-images.githubusercontent.com/117549124/200151598-f659ea19-c942-40e8-bda4-85b6d02f7035.png)
+> [HUAWEI Mate 40E Pro](https://consumer.huawei.com/cn/phones/mate40e-pro/)
+
+![image](https://user-images.githubusercontent.com/117549124/200151663-5bfe96da-f662-4053-9207-282ffe3028fb.png)
+![image](https://user-images.githubusercontent.com/117549124/200151685-0d4734f7-7296-46f7-9486-077017d03391.png)
+
+你的 Mate，自带光环。熟悉的中轴对称设计，尽显理性世界中的秩序美。标识性星环设计，来自宇宙的设计灵感，引发对未知的⁠无⁠限⁠探⁠索⁠。
+
+![image](https://user-images.githubusercontent.com/117549124/200151740-4cad5346-f99b-450f-96c8-14bf0ce9499d.png)
+![image](https://user-images.githubusercontent.com/117549124/200151742-cce340d8-f22a-407c-8ba8-76e55df9dcf9.png)
+![image](https://user-images.githubusercontent.com/117549124/200151747-a29c7e6c-5408-4e1b-9cc7-008269f67c3d.png)
+![image](https://user-images.githubusercontent.com/117549124/200151743-f990164b-a866-45ac-b749-d0a9bd4ae40a.png)
+![image](https://user-images.githubusercontent.com/117549124/200151736-5d5215c4-c12f-442f-8403-47c0a342db12.png)
+
+基于华为老化模型进行 36 个月老化测试。HUAWEI Mate 40E Pro 读写性能下降率不超过 5%。不同使用场景下老化程度存在差异。
+
+## Apple
+
+
+## XiaoMi
 
 
