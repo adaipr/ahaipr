@@ -87,6 +87,19 @@ iOS 16 满载全新的个性化功能、更具深度的智能技术，以及更�
 
 “无边记”是一款效率类 app。它不仅能帮你挥洒自己的奇思妙想，还能方便大家一起协作探讨。你可以随手记下闪现的灵感，还能共享文件，或插入网页链接、文档、视频和音频。
 
+### [iCloud](https://beta.icloud.com)
+
+![image](https://user-images.githubusercontent.com/117549124/200159716-845da8ff-6551-4a17-9839-bb27016c32b0.png)
+![image](https://user-images.githubusercontent.com/117549124/200159709-b01897ef-45d3-4c9c-9c92-9ad907ed23c2.png)
+![image](https://user-images.githubusercontent.com/117549124/200159721-914c366c-157e-4c2c-ab6d-6795154a1170.png)
+![image](https://user-images.githubusercontent.com/117549124/200159722-116e3afd-cf35-4bcc-83b5-ddd7d1d01a95.png)
+![image](https://user-images.githubusercontent.com/117549124/200159724-f38bca0f-a323-4da4-b242-943233e1b71c.png)
+![image](https://user-images.githubusercontent.com/117549124/200159725-5095d50b-3417-468a-acad-8a5a56143ed6.png)
+
+新版 iCloud
+
+苹果上周发布了新版的云存储 iCloud 服务，现在没有苹果设备的人，也可以使用它了。
+
 ### [AirPods Pro (第二代)](https://www.apple.com.cn/airpods-pro/)
 
 ![image](https://user-images.githubusercontent.com/117549124/200152333-3ac8c084-3985-498f-bd03-3f99c1339353.png)
