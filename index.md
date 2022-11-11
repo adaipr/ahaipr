@@ -50,25 +50,31 @@
 
 埃达的笔记对早期电脑发展史非常重要。当巴贝奇等同时代学者，只着眼于电脑的数学运算力时，埃达已经预见了电脑广泛应用的未来；她在笔记中以她的“诗意科学”来研究分析机，探索个人和社会，如何透过科技协同工作。1852 年 11 月 27 日，埃达因病逝世，年仅 36 岁。她对计算机科学的影响极其深远，1980 年 12 月 10 日，为了集成美军系统运行的上百种语言，提高调试效率，美国国防部决定开发一种新的通用编程语言，命名为 Ada，以纪念 Ada Lovelace。
 
+## [书籍](/ipr/book.md)
 ## [专利](/ipr/patent.md)
 ## [商标](/ipr/trademark.md)
 ## [版权](/ipr/copyright.md)
 ## [域名](/ipr/domainname.md)
 ## [合同](/ipr/contract.md)
 ## [导图](/law/xmind.md)
+## [律师](/law/lawyer.md)
+
 
 ## 体验
 ### [拍照](/xp/photo.md)
 ### [感悟](/xp/feeling.md)
 ## 见识
+### [概念](/wisdom/concept.md)
+### [逻辑](/wisdom/logic.md)
 ## 健康
 ### [设备](/health/device.md) 
-## 投资
-
+## [投资](/invest/invest.md)
+## 技术
+### [电池](/technology/battery.md)
 
 
 ## 参考
 
 1. [Quick Reference](https://wangchujiang.com/reference/) 
 
-
+![Alt](https://repobeats.axiom.co/api/embed/0aa8080340081c75eefe6a44a6636aa30fd13524.svg "Repobeats analytics image")
