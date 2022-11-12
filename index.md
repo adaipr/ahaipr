@@ -72,6 +72,90 @@
 ## 技术
 ### [电池](/technology/battery.md)
 
+[Culture Docs: Facebook, Netflix and Valve](https://bytepawn.com/culture-docs-facebook-netflix-and-valve.html)
+
+Facebook
+
+Facebook is the best company I ever worked at, mostly because of its awesome mission and impact oriented culture. This is reflected in the Culture Doc, which is easily the best of the three — but, I'm definitely biased. There are many principles (such Move Fast and Break Things) and mental models (such as the Perception vs Reality plot, which I can't find online unfortunately) that I learned at Facebook and I still refer to on a daily basis.
+
+Facebook's Culture Doc is produced by the Facebook Analog Research Laboratory, a little team within the company responsible for making posters and booklets and other analog materials for employees and the office. Fortunately, Ben Barry, who created the booklet, has put a few scans online. All the images below are from his site.
+
+Thinking along the Vision—Mission—Strategy—Tactics—Execution spectrum, Facebook's Culture Doc focuses on Mission and Execution.
+
+![image](https://user-images.githubusercontent.com/117549124/201473409-05bc6b3e-92e5-4e54-97d4-c735ffb273fe.png)
+
+Facebook was originally not created to be a company.
+
+![image](https://user-images.githubusercontent.com/117549124/201473397-2761fa1c-ec21-4825-98df-c23a462bd36a.png)
+
+Changing how people communicate will always change the world.
+
+![image](https://user-images.githubusercontent.com/117549124/201473421-068c36e3-e8e6-466f-a650-249c1c45585b.png)
+
+
+What happens when everyone can put their message in front of a lot of people?
+
+Facebook
+
+Each Facebook engineer is responsible for approximately 1,000,000 people using Facebook. (My old edition says 433,000...)
+
+Facebook
+
+There is no point in having a 5-year plan in this industry.
+
+Facebook
+
+Hacking can be playful — as long as it works.
+
+Facebook
+
+Greatness and comfort rarely coexist.
+
+Facebook
+
+Neither snow, nor rain, nor heat, nor gloom of night keeps these hackers from the swift completion of their code.
+
+Facebook
+
+The quick shall inherit the Earth.
+
+Facebook
+
+When you don't realize what you can't do, you can do some pretty cool stuff.
+
+Facebook
+
+Remember, people don't use Facebook because they like us. They use it because they like their friends. 👍
+
+Facebook
+
+We don't build services to make money. We make money to build better services.
+
+Facebook
+
+If we don't create the thing that kills Facebook, some else will. #metaverse
+
+Unfortunately most pages of the booklet are not available scanned, but in some cases the same message is available in scanned poster form:
+
+Facebook
+
+Move fast and break things.
+
+Facebook
+
+Done is better than perfect.
+
+Facebook
+
+What would you do if you weren't afraid?
+
+Facebook
+
+Fail harder.
+
+Facebook
+
+The back still says the name of a different technology company, one that came before us, left as a reminder that if we fail, someday someone might replace us.
 
 ## 参考
 
