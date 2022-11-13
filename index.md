@@ -62,7 +62,7 @@
 ## [合同](/ipr/contract.md)
 ## [导图](/law/xmind.md)
 ## [律师](/law/lawyer.md)
-
+## [刑法](/law/criminal.md)
 
 ## 体验
 ### [拍照](/xp/photo.md)
