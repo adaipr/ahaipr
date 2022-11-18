@@ -36,6 +36,11 @@
 
 ![image](https://user-images.githubusercontent.com/117549124/201473602-50a93152-8d24-4f23-befc-e851b56bdbb3.png)
 
+![image](https://user-images.githubusercontent.com/117549124/202813145-eeadf4fb-9c75-4c59-8765-cab938933ef9.png)
+![image](https://user-images.githubusercontent.com/117549124/202813155-b8c5282e-c6ed-4565-bc41-8ca26b74d301.png)
+![image](https://user-images.githubusercontent.com/117549124/202813162-b007f503-0106-4159-881d-c718066028fb.png)
+![image](https://user-images.githubusercontent.com/117549124/202813175-88e47bf8-3839-4129-90c5-c30235d61e5b.png)
+> 接力赛，个人表现 or 团队成功，代际接力...
 
 ![image](https://user-images.githubusercontent.com/117549124/200147818-6e86e417-0e3b-4d83-b132-e651580c7ea7.png)
 > 自知，自立，自强，自信...
@@ -171,5 +176,7 @@ Unlike Facebook's, which focuses on mission and execution, this feels more like 
 ## 参考
 
 1. [Quick Reference](https://wangchujiang.com/reference/) 
+2. [Aha, Sleep.](https://ahasleep.com/)
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/0aa8080340081c75eefe6a44a6636aa30fd13524.svg "Repobeats analytics image")
