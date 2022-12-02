@@ -1,6 +1,16 @@
-![image](https://user-images.githubusercontent.com/117549124/205406179-9c9e0b0a-6192-427f-9fa9-29077f0a07ab.png)
 
+## 吴伯凡·认知方法论
+
+![image](https://user-images.githubusercontent.com/117549124/205408334-a14b367d-75d8-450c-8873-dc620ff628c7.png)
+> [重建你的认知大厦](https://www.dedao.cn/course/detail?id=LZ1RgB0EW3NK0wjsbjXkP7vj68pDeA)
+
+## [万维钢·精英日课](https://www.dedao.cn/course/detail?id=YE36g8pDr7WJoQas82KP4Z5Rlwjy0z)
+
+![image](https://user-images.githubusercontent.com/117549124/205406179-9c9e0b0a-6192-427f-9fa9-29077f0a07ab.png)
 > 弱内核的观念很难改变，强内核的观念与时俱进。
+
+![image](https://user-images.githubusercontent.com/117549124/205409657-6dbe3b5d-d1d5-4aab-a66b-57a94d22dc54.png)
+
 
 超越身份思维
 
@@ -30,20 +40,23 @@
 
 但这并不是说强内核的观念是不变的。
 
+## [和菜头·成年人修炼手册](https://www.dedao.cn/course/detail?id=NPLjb1BvMZlX8BPFxkVzgenm2r78Ak)
+
+![image](https://user-images.githubusercontent.com/117549124/205409673-5cd46157-6200-4ffa-98ae-8312af703cc8.png)
 
 1．世界上没有任何捷径，不要觉得自己比别人聪明，更不要觉得自己比别人运气好；
-
 2．世界上如果存在任何捷径，能上去走的人一定不是我，走在上面的人，他们的鞋子我穿不下；
-
 3．宁可去做一些很笨、很蠢的事情，但也要符合自己的真实心意，你想让事情如何发生最重要，你能从事情里得到多少利益不重要；
-
 4．想要成就任何事情都需要时间，你可以节省一切东西，但是你节省不下时间，你得习惯事情在时间里慢慢成长，你也得习惯付出了大量的时间之后一无所获；
-
 5．不抱任何幻想，专心做事的时候，事情反而会自己完成；
-
 6．只要内心坚持相信存在捷径，那么最后就一定会跌倒。
 
 我现在的想法已经发生了很大的转变。捷径是一种信仰，供奉的神仙其实是自己。相信捷径，就是相信自己可以控制现实，让事情按照自己希望的方向发展，得出自己想要的结果，这种人就是神仙。但成年人迟早会意识到一件事，所有人来到这个世界上，都携带着有限的资源、有限的天赋，然后一起平等地面对时间。有人用的时间短，那么就意味着他要么在你看不见的地方花费了更多资源，要么是他本身拥有你难以企及的天赋。和这些人在捷径上比拼，从第一秒开始你就没有任何胜算。人只能在适合自己的轨道上，依照自己拥有的资源和能力，跟时间慢慢比拼。谋求的也不是胜利，更不是速胜，而是幸存。想要成就一件事最有效的方法不是找到最快的路径，而是用坚持和时间熬到对手都放弃或者倒下，胜利者就是幸存者。
 
 当然，这样的话如果讲给二十多岁的我听，他估计根本听不进去。他有的是时间，有的是精力，有的是雄心壮志。人就是这样，什么时候从自己的神坛上走下来，什么时候就不用再继续活在幻想之中。
+
+## [吴军·硅谷来信](https://www.dedao.cn/course/detail?id=1w2YlEkp7AMKr5ahDjXy4Zd8oLjg0a)
+
+![image](https://user-images.githubusercontent.com/117549124/205409642-02e6976f-27bd-4eea-a5e3-6bf086f166d6.png)
+
 
