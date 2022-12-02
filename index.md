@@ -394,17 +394,22 @@ ABC理论告诉我们，比目标更重要的是面对目标，由于解释体�
 ## 体验
 ### [拍照](/xp/photo.md)
 ### [感悟](/xp/feeling.md)
+
 ## 见识
 ### [概念](/wisdom/concept.md)
 ### [逻辑](/wisdom/logic.md)
 ### [表达](/wisdom/talk.md)
+### [成年人](/wisdom/adult.md)
+
 ## 健康
 ### [设备](/health/device.md) 
+
 ## [投资](/invest/invest.md)
 ### [公司](/invest/company.md)
+
 ## 技术
 ### [电池](/technology/battery.md)
-
+### [软件](/technology/software.md)
 
 ## 参考
 
